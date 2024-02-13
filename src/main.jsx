@@ -10,7 +10,6 @@ import Home from "./Pages/Registration/Home/Home";
 import ForgetPassword from "./Pages/Registration/ForgetPassword/ForgetPassword";
 import Store from "./Store/Store.jsx";
 import {Provider} from 'react-redux'
-import app from "./Authentication/firebaseconfig.jsx";
 import Chat from "./Pages/Chat/Chat.jsx";
 
 
